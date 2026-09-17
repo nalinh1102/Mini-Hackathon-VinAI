@@ -9,7 +9,7 @@
 | Họ và Tên          | Mã Học Viên | Vai trò chính | Phần việc đảm nhiệm trong dự án |
 | ------------------ | ----------- | ------------- | ------------------------------- |
 | Nguyễn Thị Lê Na   | 2A202602501 |               |                                 |
-| Phạm Đình Bảo Khôi | 2A202602434 |       Leader  |                                 |
+| Phạm Đình Bảo Khôi | 2A202602434 |               |                                 |
 | Phạm Thị Thùy Linh | 2A202602909 |               |                                 |
 | Nguyễn Thùy Linh   | 2A202602497 |               |                                 |
 
